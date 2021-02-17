@@ -1,7 +1,7 @@
 # python_log_reader
 
-log_pump = Vibration present, robot working.
+log_pump = Vibration present.
 
-log_stable = Imu Standing steady, robot not working. 
+log_stable = Imu Standing steady. 
 
-log_intel_imu* = another imu for reference
+log_intel_imu* = another imu for reference. Applied madgwick filter to raw data to get rpy.
